@@ -167,10 +167,6 @@ ChatResponse 类
 · OpenAI API
 · 其他兼容 OpenAI API 的本地或云端服务
 
-许可证
-
-MIT License
-
 贡献
 
 欢迎提交 Issue 和 Pull Request 来改进这个项目。
